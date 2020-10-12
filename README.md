@@ -46,18 +46,22 @@ Jupyter Notebooks in small groups of attendees.
 
 ## Agenda
 
+This short course is broken into five one-hour interactive sections,
+with a 20-minute break between each.
+
 | Time (ET)      | Topic                                  |
 | -------------- | -------------------------------------- |
-| 10:00 - XX:XX  | Welcome!                               |
-| XX:XX - XX:XX  | Landlab 1                              |
-| XX:XX - XX:XX  | Break                                  |
-| XX:XX - XX:XX  | Landlab 2                              |
-| XX:XX - XX:XX  | Break/Lunch                            |
-| XX:XX - XX:XX  | Landlab 3                              |
-| XX:XX - XX:XX  | Basic Model Interface (BMI)            |
-| XX:XX - XX:XX  | Break                                  |
-| XX:XX - XX:XX  | Python Modeling Tool (pymt)            |
-| XX:XX -  5:00  | Discussion                             |
+| 10:00 - 10:20  | Welcome & Introduction                 |
+| 10:20 - 11:20  | Landlab 1                              |
+| 11:20 - 11:40  | Break                                  |
+| 11:40 - 12:40  | Landlab 2                              |
+| 12:40 -  1:00  | Break                                  |
+|  1:00 -  2:00  | Landlab 3                              |
+|  2:00 -  2:20  | Break                                  |
+|  2:20 -  3:20  | Basic Model Interface (BMI)            |
+|  3:20 -  3:40  | Break                                  |
+|  3:40 -  4:40  | Python Modeling Tool (pymt)            |
+|  4:40 -  5:00  | Discussion & Closing                   |
 
 
 ## Links
