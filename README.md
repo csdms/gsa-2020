@@ -50,7 +50,7 @@ This short course is broken into five one-hour interactive sections,
 with a 20-minute break between each.
 
 | Time (ET)      | Topic                                  |
-| -------------- | -------------------------------------- |
+| -------------: | -------------------------------------- |
 | 10:00 - 10:20  | Welcome & Introduction                 |
 | 10:20 - 11:20  | Landlab 1                              |
 | 11:20 - 11:40  | Break                                  |
