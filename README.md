@@ -48,17 +48,17 @@ Jupyter Notebooks in small groups of attendees.
 This short course is broken into four 80-minute interactive sections,
 with a 20-minute break between each.
 
-| Time (ET)      | Topic                                  |
-| -------------: | -------------------------------------- |
-| 10:00 - 10:20  | Welcome & Introduction (Tucker)        |
-| 10:20 - 11:40  | Landlab (Tucker)                       |
-| 11:40 - 12:00  | Break                                  |
-| 12:00 -  1:20  | Landlab (Campforts)                    |
-|  1:20 -  1:40  | Break                                  |
-|  1:40 -  3:00  | Basic Model Interface (BMI) (Piper)    |
-|  3:00 -  3:20  | Break                                  |
-|  3:20 -  4:40  | Python Modeling Tool (pymt) (Hutton)   |
-|  4:40 -  5:00  | Discussion & Closing (Piper)           |
+| Time (ET)      | Topic                       | Presenter   |
+| -------------: | --------------------------- | ----------- |
+| 10:00 - 10:20  | Welcome & Introduction      | Tucker      |
+| 10:20 - 11:40  | Landlab                     | Tucker      |
+| 11:40 - 12:00  | Break                       |             |
+| 12:00 -  1:20  | Landlab                     | Campforts   |
+|  1:20 -  1:40  | Break                       |             |
+|  1:40 -  3:00  | Basic Model Interface (BMI) | Piper       |
+|  3:00 -  3:20  | Break                       |             |
+|  3:20 -  4:40  | Python Modeling Tool (pymt) | Hutton      |
+|  4:40 -  5:00  | Discussion & Closing        | Piper       |
 
 
 ## Links
