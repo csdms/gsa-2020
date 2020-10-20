@@ -1,0 +1,12 @@
+# A conda environment for the GSA short course.
+
+name: gsa
+channels:
+  - conda-forge
+dependencies:
+  - python =3
+  - bmipy
+  - pymt >=1.1
+  - landlab >=2.0
+  - terrainbento
+
