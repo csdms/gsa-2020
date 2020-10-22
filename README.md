@@ -60,7 +60,7 @@ with a 20-minute break between each.
 |  3:20 -  4:40  | Python Modeling Tool (pymt) | Hutton      |
 |  4:40 -  5:00  | Discussion & Closing        | Piper       |
 
-==> [Run the course tutorials on our JupyterHub](http://13.52.100.182/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fgsa-2020&urlpath=tree%2Fgsa-2020%2Fnotebooks&branch=main)
+==> [Run the course tutorials on our JupyterHub](http://54.193.17.152/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fgsa-2020&urlpath=tree%2Fgsa-2020%2Fnotebooks&branch=main)
 
 
 ## Links
